@@ -7,7 +7,7 @@ Este repositorio contiene el firmware del reloj inteligente desarrollado con el 
 Estructura general del repositorio
 ------------------------------------------------------------
 
-1. /firmware/
+1. /Firmware/
    - Lectura del sensor inercial BMI270 (acelerómetro y giroscopio)
    - Envío de datos vía BLE usando el módulo JDY-10
    - Control de la pantalla LCD SPI
